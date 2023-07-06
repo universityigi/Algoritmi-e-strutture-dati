@@ -1,0 +1,7 @@
+Cognome: 
+Nome: 
+Matricola: 
+Email Sapienza: 
+Esame ([V]ecchio/[N]uovo): 
+Linguaggio ([C]/[J]ava):
+Laureando prossima sessione o test VCA entro fine Luglio (rispondere sì unicamente in questi casi):

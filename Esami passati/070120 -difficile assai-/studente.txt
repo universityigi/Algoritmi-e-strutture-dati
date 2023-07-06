@@ -1,0 +1,8 @@
+Cognome: Zucchelli
+Nome: Riccardo
+Matricola: 1984963
+Email Sapienza: zucchelli.1984963@studenti.uniroma1.it
+Esame ([V]ecchio/[N]uovo): V
+Linguaggio ([C]/[J]ava): J
+Posizione (se non riesci a trovarla segnala al docente quando fa controllo documenti): 
+Note (eventuali integrazioni o altro):
